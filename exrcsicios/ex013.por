@@ -1,8 +1,6 @@
-programa
-{
+programa{
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 		inteiro c, n, s
 		c = 1
 		s = 0
