@@ -1,5 +1,5 @@
 programa{
-	funcao inicio{
+	funcao inicio(){
 		inteiro tot, num, c = 1, soma = 0
 		escreva("Quantos números você quer que eu sorteie? ")
 		leia(tot)
