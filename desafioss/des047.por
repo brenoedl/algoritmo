@@ -1,4 +1,3 @@
-
 programa{
 	inclua biblioteca Util --> u
 	funcao inicio(){
